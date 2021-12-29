@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub!
 
-Welcome to my GitHub. I hope you are an enthusiastic of data and AI as me :smiley:!  
-
-Here you can find several machine learning projects designed from scratch: from classic algorithms such as decision trees or boosting to deep learning models like convolutional nets and attention models.  
+Here you can find several machine learning projects, algorithms designed from scratch and other data science works.
 
 Check my blog on data science and machine learning :collision: https://joaomvg.github.io/blog-data-science/ :collision:
